@@ -64,11 +64,15 @@ Both participants independently select a game. Matching picks go straight to pla
 
 ### Stay oriented and return to the call
 
-The designs keep call participants and controls in view during play. Chat indicators surface whose turn it is and whether the game has ended. The results screen shows a score breakdown and offers a rematch. The flow also considers returning to the call after play.
+The game stays connected to the ongoing call as participants navigate other BiP screens. Persistent indicators show whose turn it is, how much time remains when a timer applies, and when the game has ended. These cues help participants return to the game with the context they need.
 
-<img src="assets/game-results.png" width="320" alt="Dart results with round scores, a rematch option, and call controls still visible">
-
-*Screen export pending for the [chat turn indicator](https://www.figma.com/design/CdAhym3hcVFWnrjJkG8poo/B%C4%B0PSHIFT?node-id=65-11409).*
+<table>
+  <tr>
+    <td align="center" width="200"><em>Figma export pending</em><br>Opponent's Turn</td>
+    <td align="center" width="200"><em>Figma export pending</em><br>Your Turn</td>
+    <td align="center" width="200"><em>Figma export pending</em><br>Game Finished</td>
+  </tr>
+</table>
 
 ## Case 1B — Sticker Experience
 
