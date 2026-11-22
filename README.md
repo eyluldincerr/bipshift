@@ -34,9 +34,14 @@ BiPShift is a collaborative design challenge entry that explores two ways to mak
 
 A game entry point in the call opens an introduction and an invitation. The sender sees a pending state. The recipient can accept to move into game selection or decline and continue the call. BiPcan is the character used throughout the gaming experience.
 
-[Call entry](assets/call-game-entry.png) · [Game introduction](assets/game-discovery.png) · [Pending invitation](assets/invite-sent.png)
-
-<img src="assets/invite-received.png" width="320" alt="Incoming in-call game invitation with clear options to decline or accept">
+<table>
+  <tr>
+    <td align="center"><img src="assets/call-game-entry.png" width="160" alt="Video call with the game entry button"><br>Call Entry</td>
+    <td align="center"><img src="assets/game-discovery.png" width="160" alt="Game introduction shown during the call"><br>Game Introduction</td>
+    <td align="center"><img src="assets/invite-sent.png" width="160" alt="Sent game invitation awaiting a response"><br>Invitation Sent</td>
+    <td align="center"><img src="assets/invite-received.png" width="160" alt="Incoming game invitation with accept and decline options"><br>Invitation Received</td>
+  </tr>
+</table>
 
 ### Choose and play
 
