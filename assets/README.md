@@ -8,6 +8,8 @@ Open each linked frame in Figma and export the full frame as a PNG at 1× or 2×
 
 | Screen | Figma frame | Filename |
 | --- | --- | --- |
+| Same Game Selected | [Oyun Akisi 2a - Ayni Oyun (65:10418)](https://www.figma.com/design/CdAhym3hcVFWnrjJkG8poo/B%C4%B0PSHIFT?node-id=65-10418) | `same-game-selected.png` |
+| Wheel Result | [Oyun Akisi 4 - Cark Sonucu (65:11114)](https://www.figma.com/design/CdAhym3hcVFWnrjJkG8poo/B%C4%B0PSHIFT?node-id=65-11114) | `wheel-result.png` |
 | Chat list with your-turn status | [65:11409](https://www.figma.com/design/CdAhym3hcVFWnrjJkG8poo/B%C4%B0PSHIFT?node-id=65-11409) | `chat-turn-status.png` |
 | Bulk sticker selection | [82:5164](https://www.figma.com/design/CdAhym3hcVFWnrjJkG8poo/B%C4%B0PSHIFT?node-id=82-5164) | `sticker-bulk-edit.png` |
 | Sticker removal confirmation | [82:2073](https://www.figma.com/design/CdAhym3hcVFWnrjJkG8poo/B%C4%B0PSHIFT?node-id=82-2073) | `sticker-confirm.png` |

@@ -45,11 +45,22 @@ A game entry point in the call opens an introduction and an invitation. The send
 
 ### Choose and play
 
-Both participants choose a game. A matching choice can move directly toward play. When preferences differ, a shared wheel breaks the tie and shows the selected game. The team explored Dart and Golf as short game concepts.
+Both participants independently select a game. Matching picks go straight to play. When the picks differ, the wheel decides and reveals the selected game. The team explored Dart and Golf, from the selection outcome through gameplay and final scores.
 
-[Game selection](assets/game-selection.png) · [Different picks](assets/different-picks.png) · [Dart selection result](assets/dart.png) · [Golf screen](assets/golf.png)
-
-<img src="assets/game-wheel.png" width="320" alt="Game selection wheel resolving two different game choices while call participant tiles remain visible">
+<table>
+  <tr>
+    <td align="center"><img src="assets/game-selection.png" width="160" alt="Game picker showing Dart and Golf during a call"><br>Game Selection</td>
+    <td align="center"><em>Figma export pending</em><br>Same Game Selected</td>
+    <td align="center"><img src="assets/different-picks.png" width="160" alt="Players have selected different games"><br>Different Games Selected</td>
+    <td align="center"><img src="assets/game-wheel.png" width="160" alt="The wheel spins to resolve the two game picks"><br>Wheel Spinning</td>
+  </tr>
+  <tr>
+    <td align="center"><em>Figma export pending</em><br>Wheel Result</td>
+    <td align="center"><img src="assets/dart.png" width="160" alt="Dart is selected and the game is about to start"><br>Dart Selected</td>
+    <td align="center"><img src="assets/golf.png" width="160" alt="Golf gameplay with the call still visible"><br>Golf Gameplay</td>
+    <td align="center"><img src="assets/game-results.png" width="160" alt="Dart results with round scores and a rematch option"><br>Dart Game Results</td>
+  </tr>
+</table>
 
 ### Stay oriented and return to the call
 
